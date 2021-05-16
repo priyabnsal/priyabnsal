@@ -24,12 +24,11 @@
 - 🤔 I’m looking for help with DSA
 - 💬 Ask me about Web Development
 - 📫 How to reach me:  **[Twitter: @priyaabnsal](https://twitter.com/priyaabnsal)**
-
-
-
+<br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyabnsal&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats" />
+<br/>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=priyabnsal&show_icons=true&theme=tokyonight&hide=contribs,prs" />
-  
+  <br/>
 
 
 <!--
