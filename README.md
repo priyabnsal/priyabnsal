@@ -27,7 +27,7 @@
 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyabnsal&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyabnsal&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=priyabnsal&show_icons=true&theme=tokyonight&hide=contribs,prs" />
   
 
