@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Web Development
 - 📫 How to reach me:  **[Twitter: @priyaabnsal](https://twitter.com/priyaabnsal)**
 
+<img style=" display: block; margin-left: auto; margin-right: auto;" src="https://github-readme-stats.vercel.app/api?username=priyabnsal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Stats"/>
 
-https://github-readme-stats.vercel.app/api?username=priyabnsal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
