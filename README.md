@@ -2,10 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyabnsal&label=Views&color=blue&style=plastic" alt="priya" /> </p>
 
-<a href="https://twitter.com/priyaabnsal">
+<a href="https://twitter.com/priyaabnsal" target="_blank">
   <img align="left" alt="Priya s Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/priyaabnsal target="_blank"/">
+<a href="https://www.linkedin.com/in/priyaabnsal/ target="_blank">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/priyabnsal">
