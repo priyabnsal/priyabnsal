@@ -39,7 +39,7 @@ Hi, I'm Priya Bansal, a passionate self-taught frontEnd web developer from India
 </a>
 <a href="https://www.facebook.com/imthepk/">
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=priyabnsal&show_icons=true&theme=tokyonight&hide=contribs,prs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyabnsal&show_icons=true&theme=tokyonight&hide=contribs,prs" />
 </a>
 
 
