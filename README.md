@@ -35,12 +35,13 @@ Hi, I'm Priya Bansal, a passionate self-taught frontEnd web developer from India
   
   <br/>
 <a href="https://instagram.com/codepur_ka_superhero/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyabnsal&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyabnsal&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 <a href="https://www.facebook.com/imthepk/">
   
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=priyabnsal&show_icons=true&theme=tokyonight&hide=contribs,prs" />
 </a>
+
 
 <!--
 **priyabnsal/priyabnsal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
