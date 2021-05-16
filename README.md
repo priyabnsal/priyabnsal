@@ -1,4 +1,4 @@
-### Hi 👋 I am Priya Bansal 
+### Hi 👋 I'm Priya Bansal!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyabnsal&label=Views&color=blue&style=plastic" alt="priya" /> </p>
 
