@@ -31,8 +31,6 @@ Hi, I'm Priya Bansal, a passionate self-taught frontEnd web developer from India
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/priyabnsal/github-readme-stats)*
 
 <br/>
-
-  
   <br/>
 <a href="https://instagram.com/codepur_ka_superhero/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyabnsal&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats" />
@@ -57,7 +55,7 @@ Hi, I'm Priya Bansal, a passionate self-taught frontEnd web developer from India
 - 👯 I’m looking to collaborate on ...
 - - 🤔 I’m looking for help with DSA
 - 😄 Pronouns: She/her
-- - ⚡ Fun fact: ...
+- - ⚡ Fun fact:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=priyabnsal&show_icons=true&theme=tokyonight&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyabnsal&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
