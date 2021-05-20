@@ -39,7 +39,26 @@ Hi, I'm Priya Bansal, a passionate self-taught frontEnd web developer from India
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyabnsal&show_icons=true&theme=tokyonight&hide=contribs,prs" />
 </a>
+<!-- |[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=12383316)](https://stackoverflow.com/users/12383316/dhruv-kothari) | -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyabnsal"/>
 
+<!-- |---|---| -->
+ 
+ ---
+
+## Connect with me  
+<div align="center">
+ <a href="https://www.linkedin.com/in/priyaabnsal/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/priyabnsal" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/priyaabnsal" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+
+</div>
 
 <!--
 **priyabnsal/priyabnsal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
