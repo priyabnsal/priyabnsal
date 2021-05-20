@@ -40,8 +40,9 @@ Hi, I'm Priya Bansal, a passionate self-taught frontEnd web developer from India
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyabnsal&show_icons=true&hide=contribs,prs" />
 <!--   &theme=tokyonight -->
 </a>
+<br/>
 <!-- |[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=12383316)](https://stackoverflow.com/users/12383316/dhruv-kothari) | -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyabnsal"/>
+<img style="align:center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyabnsal"/>
 
 <!-- |---|---| -->
  
