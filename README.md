@@ -33,11 +33,12 @@ Hi, I'm Priya Bansal, a passionate self-taught frontEnd web developer from India
 <br/>
   <br/>
 <a href="https://instagram.com/codepur_ka_superhero/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyabnsal&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyabnsal&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 <a href="https://www.facebook.com/imthepk/">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyabnsal&show_icons=true&theme=tokyonight&hide=contribs,prs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=priyabnsal&show_icons=true&hide=contribs,prs" />
+<!--   &theme=tokyonight -->
 </a>
 <!-- |[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=12383316)](https://stackoverflow.com/users/12383316/dhruv-kothari) | -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyabnsal"/>
