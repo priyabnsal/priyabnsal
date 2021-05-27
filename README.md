@@ -77,7 +77,7 @@ Hi, I'm Priya Bansal, a passionate self-taught frontEnd web developer from India
 - 👯 I’m looking to collaborate on ...
 - - 🤔 I’m looking for help with DSA
 - 😄 Pronouns: She/her
-- - ⚡ Fun fact:
+- - ⚡ Fun fact: and we can add more here
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=priyabnsal&show_icons=true&theme=tokyonight&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyabnsal&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
