@@ -86,9 +86,9 @@ Hi, I'm Priya Bansal, a passionate self-taught frontEnd web developer from India
 [![Priya's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyabnsal)]
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=priyabnsal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyabnsal&hide=contribs,prs,issues)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=priyabnsal&hide=contribs,prs,issues)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyabnsal)]
 
