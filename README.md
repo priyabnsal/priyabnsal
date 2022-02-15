@@ -19,8 +19,8 @@
 
 <br/>
 
-- 🔭 I’m currently working on DSA Cheat Sheet
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🔭 I’m currently working as Software Engineer
+- 🌱 I’m currently learning Microsoft Azure
 - 💬 Ask me about Web Development
 - 📫 How to reach me:  **[Twitter: @priyaabnsal](https://twitter.com/priyaabnsal)**
 <br/>
